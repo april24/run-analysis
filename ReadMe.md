@@ -3,9 +3,12 @@ title: "README"
 author: "Rong Chen"
 
 ---
- ======
- Prepare tidy data for " Human Activity Recognition Using Smartphones Dataset" that can be used for later analysis.
- ======
+
+####Prepare tidy data for "Human Activity Recognition Using Smartphones Dataset" 
+####that can be used for later analysis.
+
+ 
+ 
  Here are the steps:
  
 a.Read in the dataset in "test"/"train".
